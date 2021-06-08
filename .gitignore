@@ -2,3 +2,12 @@ index.html_old
 /tmp
 tmp/
 .DS_Store
+index.html_old
+/tmp
+*._backup
+Thumbs.db
+*.DS_Store
+.DS_Store
+DS_Store
+tmp/
+img/*.db
